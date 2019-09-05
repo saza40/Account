@@ -1,0 +1,10 @@
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Balance.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Orders.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/AccountTransaction.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/CreateAccountBalanceRequest.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/AccountBalance.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Account.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Phase.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Order.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/Money.java
+/home/sahar/projects/account/account-component/account-component-domain/src/main/java/se/lexicon/account/component/domain/CreateAccountTransactionRequest.java

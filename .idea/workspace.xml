@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874078c1-1846-4439-8e30-c45073bcc04d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../price/price-component/price-component-service-impl/src/main/java/se/lexicon/price/component/service/PriceComponentServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-api/order-api-common/order-api-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-api/order-api-common/order-api-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-client/order-component-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-client/order-component-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-dao-impl/order-component-dao-impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-dao-impl/order-component-dao-impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-dao/order-component-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-dao/order-component-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-domain/order-component-domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-domain/order-component-domain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-domain/src/main/java/se/lexicon/order/component/domain/OrderDeal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-domain/src/main/java/se/lexicon/order/component/domain/OrderDeal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-entity/order-component-entity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-entity/order-component-entity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-mapper/order-component-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-mapper/order-component-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-mirror/order-component-mirror.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-mirror/order-component-mirror.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-pu-mirror/order-component-pu-mirror.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-pu-mirror/order-component-pu-mirror.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-pu/order-component-pu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-pu/order-component-pu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-service-impl/order-component-service-impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-service-impl/order-component-service-impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-service/order-component-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-service/order-component-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-common/order-component-test-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-common/order-component-test-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-integration/order-component-test-integration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-integration/order-component-test-integration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-unit/order-component-test-unit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/order-component/order-component-test/order-component-test-unit/order-component-test-unit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price/price-component/price-component-service-impl/src/main/java/se/lexicon/price/component/service/PriceComponentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price/price-component/price-component-service/src/main/java/se/lexicon/price/component/service/PriceComponentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../price/price-component/price-component-service/src/main/java/se/lexicon/price/component/service/PriceComponentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price/price-component/price-component-test/price-component-test-common/src/main/java/se/lexicon/price/component/test/common/domain/OrderDealTestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../price/price-component/price-component-test/price-component-test-common/src/main/java/se/lexicon/price/component/test/common/domain/OrderDealTestBuilder.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PgfFhrWsSKSGOXnGjZAd4bu418" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Garage" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874078c1-1846-4439-8e30-c45073bcc04d" name="Default Changelist" comment="" />
+      <created>1563357979667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563357979667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

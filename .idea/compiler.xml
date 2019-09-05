@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account-component-test-integration" />
+        <module name="account-component-dao-impl" />
+        <module name="order-component-dao-impl" />
+        <module name="order-component-test-common" />
+        <module name="order-component-service" />
+        <module name="price-component-mirror" />
+        <module name="price-component-pu" />
+        <module name="price-component-dao" />
+        <module name="account-component-dao" />
+        <module name="price-component-test-integration" />
+        <module name="price-component-entity" />
+        <module name="price-component-test-unit" />
+        <module name="account-component-mirror" />
+        <module name="order-component-entity" />
+        <module name="price-component-pu-mirror" />
+        <module name="price-component-dao-impl" />
+        <module name="account-component-entity" />
+        <module name="order-component-pu" />
+        <module name="account-component-pu" />
+        <module name="price-component-client" />
+        <module name="account-component-client" />
+        <module name="account-component-service" />
+        <module name="order-component-mirror" />
+        <module name="price-component-service-impl" />
+        <module name="order-component-domain" />
+        <module name="order-component-service-impl" />
+        <module name="price-component-service" />
+        <module name="account-component-service-impl" />
+        <module name="order-component-mapper" />
+        <module name="account-component-test-common" />
+        <module name="price-component-mapper" />
+        <module name="price-component-test-common" />
+        <module name="order-api-common" />
+        <module name="order-component-test-unit" />
+        <module name="account-component-mapper" />
+        <module name="account-component-test-unit" />
+        <module name="order-component-pu-mirror" />
+        <module name="price-component-domain" />
+        <module name="order-component-dao" />
+        <module name="order-component-test-integration" />
+        <module name="account-component-pu-mirror" />
+        <module name="order-component-client" />
+        <module name="account-component-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account" target="1.8" />
+      <module name="account-component" target="1.8" />
+      <module name="account-component-client" target="1.8" />
+      <module name="account-component-dao" target="1.8" />
+      <module name="account-component-dao-impl" target="1.8" />
+      <module name="account-component-domain" target="1.8" />
+      <module name="account-component-entity" target="1.8" />
+      <module name="account-component-mapper" target="1.8" />
+      <module name="account-component-mirror" target="1.8" />
+      <module name="account-component-pu" target="1.8" />
+      <module name="account-component-pu-mirror" target="1.8" />
+      <module name="account-component-service" target="1.8" />
+      <module name="account-component-service-impl" target="1.8" />
+      <module name="account-component-test" target="1.8" />
+      <module name="account-component-test-common" target="1.8" />
+      <module name="account-component-test-integration" target="1.8" />
+      <module name="account-component-test-unit" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="order-api" target="1.8" />
+      <module name="order-api-common" target="1.8" />
+      <module name="order-component" target="1.8" />
+      <module name="order-component-client" target="1.8" />
+      <module name="order-component-dao" target="1.8" />
+      <module name="order-component-dao-impl" target="1.8" />
+      <module name="order-component-domain" target="1.8" />
+      <module name="order-component-entity" target="1.8" />
+      <module name="order-component-mapper" target="1.8" />
+      <module name="order-component-mirror" target="1.8" />
+      <module name="order-component-pu" target="1.8" />
+      <module name="order-component-pu-mirror" target="1.8" />
+      <module name="order-component-service" target="1.8" />
+      <module name="order-component-service-impl" target="1.8" />
+      <module name="order-component-test" target="1.8" />
+      <module name="order-component-test-common" target="1.8" />
+      <module name="order-component-test-integration" target="1.8" />
+      <module name="order-component-test-unit" target="1.8" />
+      <module name="price" target="1.8" />
+      <module name="price-component" target="1.8" />
+      <module name="price-component-client" target="1.8" />
+      <module name="price-component-dao" target="1.8" />
+      <module name="price-component-dao-impl" target="1.8" />
+      <module name="price-component-domain" target="1.8" />
+      <module name="price-component-entity" target="1.8" />
+      <module name="price-component-mapper" target="1.8" />
+      <module name="price-component-mirror" target="1.8" />
+      <module name="price-component-pu" target="1.8" />
+      <module name="price-component-pu-mirror" target="1.8" />
+      <module name="price-component-service" target="1.8" />
+      <module name="price-component-service-impl" target="1.8" />
+      <module name="price-component-test" target="1.8" />
+      <module name="price-component-test-common" target="1.8" />
+      <module name="price-component-test-integration" target="1.8" />
+      <module name="price-component-test-unit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

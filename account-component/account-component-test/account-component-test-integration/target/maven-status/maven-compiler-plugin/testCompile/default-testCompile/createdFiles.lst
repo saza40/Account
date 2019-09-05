@@ -1,0 +1,7 @@
+com/seb/account/component/test/integration/dao/AccountComponentDaoIntegrationTest.class
+com/seb/account/component/test/integration/dao/OrderComponentDaoIntegrationTest.class
+com/seb/account/component/test/integration/service/AccountComponentServiceIntegrationTest.class
+com/seb/account/component/test/integration/client/AccountComponentClientIntegrationTest.class
+com/seb/account/component/test/integration/service/AccountComponentServiceIntegrationTestSuite.class
+com/seb/account/component/test/integration/service/OrderComponentServiceIntegrationTest.class
+com/seb/account/component/test/integration/dao/AccountComponentDaoIntegrationTestSuite.class

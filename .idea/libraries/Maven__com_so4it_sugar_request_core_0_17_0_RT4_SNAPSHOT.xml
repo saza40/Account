@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.so4it.sugar:request-core:0.17.0-RT4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/so4it/sugar/request-core/0.17.0-RT4-SNAPSHOT/request-core-0.17.0-RT4-20190817.193207-29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/so4it/sugar/request-core/0.17.0-RT4-SNAPSHOT/request-core-0.17.0-RT4-20190817.193207-29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/so4it/sugar/request-core/0.17.0-RT4-SNAPSHOT/request-core-0.17.0-RT4-20190817.193207-29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
